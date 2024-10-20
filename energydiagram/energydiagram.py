@@ -28,7 +28,7 @@ class ED:
         self.space = 'auto'
         self.offset = 'auto'
         self.offset_ratio = 0.02
-        self.color_bottom_text = 'blue'
+        self.color_bottom_text = 'black'
         self.color_top_text = 'k'
         self.aspect = aspect
         self.round_energies_at_digit = "keep all digits"
